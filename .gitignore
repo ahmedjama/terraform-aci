@@ -1,3 +1,16 @@
+initialize.sh
+
+accounts
+Framework
+.terraform*
+*.tfvars
+terraform.tfstate*
+.idea*
+.DS_Store
+.vscode
+*.swp
+
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
